@@ -25,3 +25,8 @@ ambiente.
 # Esquemático geral do sistema
 ![alt text](https://github.com/SirBlaze10/Conversor-CC-CC-Buck-Boost-Interleaved/blob/main/Fotos%20readme/esquematico.png)
 
+# Fluxograma da rotina de controlo
+![alt text](https://github.com/SirBlaze10/Conversor-CC-CC-Buck-Boost-Interleaved/blob/main/Fotos%20readme/fluxograma_V2.jpg)
+
+# Prototipo desenvolvido
+![alt text](https://github.com/SirBlaze10/Conversor-CC-CC-Buck-Boost-Interleaved/blob/main/Fotos%20readme/Prototipo.png)

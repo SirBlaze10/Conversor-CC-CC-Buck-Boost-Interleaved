@@ -22,5 +22,6 @@ elevador). O conversor desenvolvido permite uma frequência máxima de operaçã
 controlado digitalmente pela plataforma de desenvolvimento STM32. O conversor deve operar na
 vertical, sem obstrução do dissipador, de modo a facilitar a troca de calor entre o dissipador e o meio
 ambiente.
-
+# Esquemático geral do sistema
+![alt text](https://github.com/SirBlaze10/Conversor-CC-CC-Buck-Boost-Interleaved/blob/main/Fotos%20readme/esquematico.png)
 
